@@ -2,4 +2,4 @@
 
 ## Daily challenge of doing python/ai/ml projects instead of missing her. Till i stop yearning her to comeback
 
-![batman](batman.jpg) | ![monekey](monkeysad.jpg) | ![thenotebook](thenotebook.jpg)
+![yearningbros](batman.jpg, monkeysad.jpg, thenotebook.jpg)
