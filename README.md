@@ -3,8 +3,8 @@
 ## Daily challenge of doing python/ai/ml projects instead of missing her. Till i stop yearning her to comeback
 
 <p>
-  <img src="batman.jpg" width="350">
-  <img src="monkeysad.jpg" width="350">
-  <img src="thenotebook.jpg" width="350">
-  <img src="man.jpg" width="350">
+  <img src="imgs/batman.jpg" width="350">
+  <img src="imgs/monkeysad.jpg" width="350">
+  <img src="imgs/thenotebook.jpg" width="350">
+  <img src="imgs/man.jpg" width="350">
 </p>
